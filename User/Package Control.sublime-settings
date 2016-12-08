@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"42 Headers",
+		"AngularJS",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"ColorPicker",
+		"ConvertChineseCharacters",
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Emmet",
+		"FileHeader",
+		"GBK Support",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"Laravel 5 Artisan",
+		"Node Completions",
+		"Nodejs",
+		"Package Control",
+		"SublimeCodeIntel",
+		"Tag",
+		"Terminal",
+		"TypeScript"
+	]
+}
